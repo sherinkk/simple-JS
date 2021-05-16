@@ -1,0 +1,29 @@
+.square{
+
+width: 30%;
+padding-top: 30%;
+background-color: blue;
+border-radius: 15%;
+transition: background .6s;
+
+}
+
+#container{
+max-width: 500px;
+width:75%;
+}
+
+
+.selected{
+background-color:red;
+}
+
+#info{
+background-color: white;
+}
+
+body{
+background-color: black;
+color: blanchedalmond;
+}
+
